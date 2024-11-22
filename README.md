@@ -1,2 +1,2 @@
 # AutoVoigtFit
-Pipeline for automatic voigt fitting
+Pipeline for automatic Voigt fitting.
